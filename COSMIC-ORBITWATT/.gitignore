@@ -1,8 +1,0 @@
-node_modules/
-dist/
-.env
-backend/.env
-backend/.venv/
-__pycache__/
-backend/data/insat/*.h5
-backend/mosdac/config.json
